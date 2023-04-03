@@ -1,0 +1,12 @@
+spring: 
+  application:
+    name: distancias
+  datasource:   
+      url: 
+      username: 
+      password: 
+      driver-class-name: org.postgresql.Driver
+    
+server:
+  port: 8081
+  
