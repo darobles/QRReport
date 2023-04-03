@@ -24,7 +24,7 @@ public class CaptchaRepository {
 
 	private final WebClient webClient;
 
-	private String SECRET_KEY = "6LdFaBoiAAAAAI_LPE45viyVDOd5zGxqD1S1h-sz";
+	private String SECRET_KEY = "SECRET_KEY";
 	
 	public CaptchaRepository(WebClient.Builder webClientBuilder) {
 
